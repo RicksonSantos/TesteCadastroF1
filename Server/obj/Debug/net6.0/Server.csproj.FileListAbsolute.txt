@@ -1,0 +1,15 @@
+/Users/macbook/curso dotnet/App_cadastro_series/Server/bin/Debug/net6.0/Server
+/Users/macbook/curso dotnet/App_cadastro_series/Server/bin/Debug/net6.0/Server.deps.json
+/Users/macbook/curso dotnet/App_cadastro_series/Server/bin/Debug/net6.0/Server.runtimeconfig.json
+/Users/macbook/curso dotnet/App_cadastro_series/Server/bin/Debug/net6.0/Server.dll
+/Users/macbook/curso dotnet/App_cadastro_series/Server/bin/Debug/net6.0/ref/Server.dll
+/Users/macbook/curso dotnet/App_cadastro_series/Server/bin/Debug/net6.0/Server.pdb
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.csproj.AssemblyReference.cache
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.AssemblyInfoInputs.cache
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.AssemblyInfo.cs
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.csproj.CoreCompileInputs.cache
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.dll
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/ref/Server.dll
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.pdb
+/Users/macbook/curso dotnet/App_cadastro_series/Server/obj/Debug/net6.0/Server.genruntimeconfig.cache
